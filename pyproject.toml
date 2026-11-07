@@ -1,0 +1,7 @@
+[project]
+name = "quran-py-qiraat-variant-diff"
+version = "1.0.0"
+description = "Ten Canonical Qira'at Phonetic & Orthographic Diff Engine (مقارن القراءات العشر المتواترة واختلاف الفرش والأصول)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
